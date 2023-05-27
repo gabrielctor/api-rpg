@@ -1,12 +1,16 @@
 {
   "name": "api-rpg",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "API com registros de um mundo de RPG",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielctorquato/api-rpg.git"
   },
   "author": "Gabriel Torquato",
   "license": "ISC",
